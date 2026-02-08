@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>app/admin/modificar_viaje.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>65</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>app/assets/CSS.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>351</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/vistas/privacidad.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/admin/procesar_modificar_viaje.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/vistas/politica.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/vistas/legal.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/assets/CSS.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/vistas/footer.php</file>
+            <file>file:/C:/xampp/htdocs/AgenciaViajes/app/admin/modificar_viaje.php</file>
+        </group>
+    </open-files>
+</project-private>
